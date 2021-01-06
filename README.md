@@ -1,2 +1,6 @@
 # hello-world
-Project Folder
+
+Hi Everyone!
+
+Chris here, I like Python
+
